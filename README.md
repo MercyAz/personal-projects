@@ -1,2 +1,2 @@
 # personal-projects
-File containing many of my personal coding projects
+File containing many of my personal coding projects.
